@@ -1,3 +1,2 @@
 nombre:Sami
 apellidos:Mimun Rahmaoui
-telefono:611 111 111
